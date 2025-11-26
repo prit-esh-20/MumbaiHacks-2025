@@ -1,6 +1,6 @@
 # MediNest - AI-Powered Health Insurance Advisor
 
-**Team Code Commanders** | ENIGMA 4.0 | SIES Graduate School of Technology
+**Team Code Commanders** | MumbaiHacks 2025 | SIES Graduate School of Technology
 
 ## 🎯 Project Overview
 
